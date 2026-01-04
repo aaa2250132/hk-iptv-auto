@@ -27,16 +27,23 @@ SOURCE_URLS = [
 KEYWORDS = [
     "ViuTV", "HOY", "RTHK", "Jade", "Pearl", "J2", "J5", "Now", 
     "无线", "無線", "有线", "有線", "翡翠", "明珠", "港台", 
+    "电视", "電視", "高清", "News"
 ]
 
-# 3. 【新增】黑名單關鍵字 (包含這些字的一律丟棄)
+# 3. 【黑名單升級】強力過濾非香港頻道
 BLOCK_KEYWORDS = [
-    "FOX", "Pluto", "Chopper", "Wow", "UHD", "8K", # 排除國外誤判頻道
-    "華麗", "星河", "鳳凰", "凤凰", "CCTV", "CGTN", # 排除非香港本地/特定排除台
-    "珠江", "廣東", "大灣區", "延时", "測試"
+    # 來自你的日誌分析 (美國/英語台)
+    "FOX", "Pluto", "Local", "NBC", "CBS", "ABC", "AXS", "Snowy", 
+    "Reuters", "Mirror", "ET Now", "The Now", "Right Now", "News Now",
+    "Chopper", "Wow", "UHD", "8K", "Career", "Comics", "Movies",
+    
+    # 來自你的日誌分析 (大陸/澳門台)
+    "浙江", "杭州", "西湖", "廣東", "珠江", "大灣區", # 排除 "杭州西湖明珠"
+    "澳門", "Macau", "有線 CH", "互動新聞",           # 排除澳門有線
+    "CCTV", "CGTN", "鳳凰", "凤凰", "華麗", "星河", "延时", "測試"
 ]
 
-# 4. 【新增】頻道排序優先級 (越上面越靠前)
+# 4. 頻道排序優先級 (越上面越靠前)
 ORDER_KEYWORDS = [
     "翡翠", "無線新聞", "明珠", "J2", "J5", "財經",  # TVB系列
     "ViuTV", "ViuTV 6", "ViuTVsix",               # Viu系列
@@ -65,11 +72,9 @@ def check_url(url):
 def get_sort_key(item):
     """計算頻道的排序權重"""
     name = item["name"]
-    # 遍歷排序關鍵字，找到匹配的就返回索引值 (越小越前面)
     for index, keyword in enumerate(ORDER_KEYWORDS):
         if keyword in name:
             return index
-    # 如果都沒匹配到，排在最後 (999)
     return 999
 
 def fetch_and_parse():
@@ -105,7 +110,7 @@ def fetch_and_parse():
                         current_name = converted_name.replace('臺', '台')
                         
                 elif line.startswith("http") and current_name:
-                    # 1. 黑名單檢查 (只要包含黑名單關鍵字，直接跳過)
+                    # 1. 黑名單檢查
                     if any(b.lower() in current_name.lower() for b in BLOCK_KEYWORDS):
                         current_name = ""
                         continue
@@ -145,7 +150,7 @@ def generate_m3u(channels):
         else:
             print("🔴 失效", flush=True)
 
-    # 3. 【排序】根據自定義順序排列
+    # 3. 排序
     print("\n🔄 正在進行排序...", flush=True)
     final_list.sort(key=get_sort_key)
 
