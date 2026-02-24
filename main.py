@@ -41,23 +41,16 @@ SOURCE_URLS = [
 # 2. 包含關鍵字 (必須包含這些字才抓取)
 KEYWORDS = [
     "ViuTV", "HOY", "RTHK", "Jade", "Pearl", "J2", "J5", "Now", 
-    "无线", "無線", "有线", "有線", "翡翠", "明珠", "港台", 
+    "无线", "無線", "有线", "有線", "翡翠", "明珠", "港台",  "卫视", 
 ]
 
 # 3. 黑名單關鍵字 (包含這些字的一律丟棄)
 BLOCK_KEYWORDS = [
     # 來自你的日誌分析 (美國/英語台)
-    "FOX", "Pluto", "Local", "NBC", "CBS", "ABC", "AXS", "Snowy", 
-    "Reuters", "Mirror", "ET Now", "The Now", "Right Now", "News Now",
-    "Chopper", "Wow", "UHD", "8K", "Career", "Comics", "Movies",
-    "CBTV","Pearl","AccuWeather","Jadeed","Curiosity","Electric",
-    "Warfare","Knowledge","MagellanTV","70s","80s","90s","Rock",
-    "Winnipeg","Edmonton","RightNow","Times","True","Mindanow",
+   
     
     # 來自你的日誌分析 (大陸/澳門台)
-    "浙江", "杭州", "西湖", "廣東", "珠江", "大灣區", # 排除 "杭州西湖明珠"
-    "澳門", "Macau", "有線 CH", "互動新聞",           # 排除澳門有線
-    "CCTV", "CGTN", "鳳凰", "凤凰", "華麗", "星河", "延时", "測試", "iHOY", "福建"
+   
 ]
 
 # 4. 【已更新】頻道排序優先級 (越上面越靠前)
