@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# Update: 2026-08-07 15:20:41
+# Update: 2026-08-08 03:45:34
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠.png",翡翠
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠.png",翡翠
@@ -33,8 +33,6 @@ https://cdn.163189.xyz/live/fct4k/stream.m3u8$LR•IPV4『线路16』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://8.138.7.223/tv/gdmzyd.php?id=1$LR•IPV4『线路20』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$LR•IPV4『线路26』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS$LR•IPV4『线路27』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 https://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8$LR•IPV4『线路29』
@@ -42,8 +40,6 @@ https://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8$LR•IPV4『线路29』
 http://r.jdshipin.com/GeWKr?id=fct406$LR•IPV4『线路30』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/GeWKr?id=fct720$LR•IPV4『线路31』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0401&tk=2aca1ad9a849$LR•IPV4『线路39』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/無線新聞.png",無線新聞
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/無線新聞台.png",無線新聞台
@@ -109,19 +105,17 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/香港衛視.png",香港衛視
 http://anren.live/HK/BSJDUFpB.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/香港衛視.png",香港衛視
-http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/香港衛視.png",香港衛視
 https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/香港衛視文旅.png",香港衛視文旅
 https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/蓮花衛視.png",蓮花衛視
 http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/RTHKTV31.png",RTHKTV31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/FOX NewsNOW.png",FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/Local Now ChopperTown (720p).png",Local Now ChopperTown (720p)
 https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視 (720p).png",延邊衛視 (720p)
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/FOX News Now (720p).png",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/Pluto TV NBC News NOW (720p) [Not 24/7].png",Pluto TV NBC News NOW (720p) [Not 24/7]
@@ -130,14 +124,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa0009
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視4K.png",湖南衛視4K
 http://8.138.7.223/tv/api.php?id=hnws4k
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視4K.png",江蘇衛視4K
-http://8.138.7.223/tv/jsws4k.php
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視4K.png",深圳衛視4K
 http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/tvg-id="河北衛視" tvg-name="河北衛視" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北衛視.png" group-title="衛視頻道",河北衛視.png",tvg-id="河北衛視" tvg-name="河北衛視" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北衛視.png" group-title="衛視頻道",河北衛視
 http://120.76.248.139/live/bfgd/4200000108.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/內蒙古衛視.png",內蒙古衛視
@@ -223,8 +213,6 @@ http://cdn.163189.xyz/163189/now
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
 http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
-https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
 http://107.150.60.122/live/gdwshd.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
 http://198.204.228.26/live/gdwshd.m3u8
@@ -237,11 +225,11 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
+http://123.118.55.165:45237/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://107.150.60.122/live/zjwshd.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://111.8.224.6:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
-https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
@@ -296,8 +284,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 http://204.12.221.218:8181/3m1080p/cqws.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
 http://107.150.60.122/live/cqwshd.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
 http://207.56.13.146:81/cdnlive/dfws.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
@@ -367,6 +353,8 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
 http://207.56.13.146:81/cdnlive/jsws.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
+http://123.118.55.165:45237/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
 http://107.150.60.122/live/jswshd.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
 http://198.204.228.26/live/jxwshd.m3u8
@@ -420,6 +408,8 @@ http://111.8.224.6:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山東衛視.png",山東衛視
 http://107.150.60.122/live/sdwshd.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山東衛視.png",山東衛視
+http://123.118.55.165:45237/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山東衛視.png",山東衛視
 http://207.56.13.146:81/cdnlive/sdws.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山東衛視.png",山東衛視
@@ -532,8 +522,8 @@ http://107.150.60.122/live/xmws.m3u8
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
 https://srs.iyb983.cn:443/video/CYS/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安多衛視.png",安多衛視
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/鳳凰衛視.png",鳳凰衛視
 http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/無線星河.png",無線星河
@@ -543,9 +533,13 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5406&tk=23a9aca1f79f$LR•IPV4『线�
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8$LR•IPV4『线路85』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
+http://123.130.84.106:8154/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路98』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
 http://120.76.248.139/live/bfgd/4200000086.m3u8$LR•IPV4『线路107』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
 http://drive.mxmy.net:8888/udp/239.3.1.132:8012$LR•IPV4『线路113』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
+http://59.39.89.130:60901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路168』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
 http://183.223.157.33:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路174』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
@@ -555,8 +549,6 @@ http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4『�
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路56』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
-http://123.130.84.106:8154/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路64』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4『线路89』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6595&tk=a0c4f6cfaba3$LR•IPV4『线路92』
@@ -565,19 +557,13 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线�
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://120.76.248.139/live/bfgd/4200000094.m3u8$LR•IPV4『线路112』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
-http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$LR•IPV4『线路117』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://drive.mxmy.net:8888/udp/239.3.1.137:8036$LR•IPV4『线路126』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$LR•IPV4『线路166』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路216』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
-https://www.yangshipin.cn/tv/home?pid=600002520$LR•IPV4『线路226』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
 http://123.130.84.106:8154/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路64』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6000&tk=a0c4f6cfaba3$LR•IPV4『线路94』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
 http://8.138.7.223/tv/dl/sh.php?id=dfws$LR•IPV4『线路109』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
@@ -591,31 +577,31 @@ http://61.136.172.236:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9226&tk=a0c4f6cfaba3$LR•IPV4『线路89』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
-https://www.yangshipin.cn/tv/home?pid=600002309$LR•IPV4『线路90』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
 http://120.76.248.139/live/bfgd/4200000083.m3u8$LR•IPV4『线路108』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
+http://59.39.89.130:60901/tsfile/live/0125_7.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路158』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
 http://61.136.172.236:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路205』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
+http://123.130.84.106:8154/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路55』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2625&tk=a0c4f6cfaba3$LR•IPV4『线路94』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
 http://120.76.248.139/live/bfgd/4200000085.m3u8$LR•IPV4『线路112』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
 http://drive.mxmy.net:8888/udp/239.3.1.135:8028$LR•IPV4『线路124』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
+http://183.223.157.33:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路214』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
 http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路221』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1678&tk=a0c4f6cfaba3$LR•IPV4『线路81』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
-https://www.yangshipin.cn/tv/home?pid=600002532$LR•IPV4『线路82』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
 http://120.76.248.139/live/bfgd/4200000096.m3u8$LR•IPV4『线路101』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
 http://drive.mxmy.net:8888/udp/239.3.1.211:8064$LR•IPV4『线路113』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
-http://123.130.84.106:8154/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路49』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7530&tk=a0c4f6cfaba3$LR•IPV4『线路77』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
-https://www.yangshipin.cn/tv/home?pid=600002531$LR•IPV4『线路78』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
+http://59.39.89.130:60901/tsfile/live/0125_6.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路164』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
 http://120.76.248.139/live/bfgd/4200000107.m3u8$LR•IPV4『线路98』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
@@ -625,17 +611,15 @@ http://61.136.172.236:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0402&tk=a0c4f6cfaba3$LR•IPV4『线路62』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
-https://www.yangshipin.cn/tv/home?pid=600002516$LR•IPV4『线路63』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
 http://120.76.248.139/live/bfgd/4200000103.m3u8$LR•IPV4『线路87』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
 http://59.39.89.130:60901/tsfile/live/0125_16.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路142』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
-http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路174』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
 http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路185』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東南衛視.png",東南衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5983&tk=a0c4f6cfaba3$LR•IPV4『线路79』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東南衛視.png",東南衛視
+http://123.130.84.106:8154/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路91』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東南衛視.png",東南衛視
 http://120.76.248.139/live/bfgd/4200000483.m3u8$LR•IPV4『线路94』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東南衛視.png",東南衛視
@@ -646,8 +630,6 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=fujian$LR•IPV4『线路142』
 http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路184』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
 http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路37』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
-https://www.yangshipin.cn/tv/home?pid=600002481$LR•IPV4『线路65』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
 http://120.76.248.139/live/bfgd/4200000100.m3u8$LR•IPV4『线路79』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
@@ -665,8 +647,6 @@ http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7377&tk=a0c4f6cfaba3$LR•IPV4『线路55』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
-https://www.yangshipin.cn/tv/home?pid=600002509$LR•IPV4『线路56』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6313&tk=23a9aca1f79f$LR•IPV4『线路66』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
 http://120.76.248.139/live/bfgd/4200000116.m3u8$LR•IPV4『线路74』
@@ -679,8 +659,6 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7784&tk=a0c4f6cfaba3$LR•IPV4『线�
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廈門衛視.png",廈門衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1695&tk=23a9aca1f79f$LR•IPV4『线路54』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/甘肅衛視.png",甘肅衛視
-http://123.130.84.106:8154/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路28』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/甘肅衛視.png",甘肅衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6110&tk=a0c4f6cfaba3$LR•IPV4『线路41』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/甘肅衛視.png",甘肅衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9614&tk=23a9aca1f79f$LR•IPV4『线路50』
@@ -689,15 +667,11 @@ http://120.76.248.139/live/bfgd/4200000119.m3u8$LR•IPV4『线路54』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9095&tk=a0c4f6cfaba3$LR•IPV4『线路75』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
-https://www.yangshipin.cn/tv/home?pid=600002490$LR•IPV4『线路76』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1716&tk=23a9aca1f79f$LR•IPV4『线路89』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
 http://120.76.248.139/live/bfgd/4200000101.m3u8$LR•IPV4『线路98』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
 http://drive.mxmy.net:8888/udp/239.3.1.149:8076$LR•IPV4『线路113』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
-http://59.39.89.130:60901/tsfile/live/0125_15.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路153』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
 http://61.136.172.236:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路184』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
@@ -708,12 +682,10 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6178&tk=23a9aca1f79f$LR•IPV4『线�
 http://120.76.248.139/live/bfgd/4200000108.m3u8$LR•IPV4『线路93』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
 http://drive.mxmy.net:8888/udp/239.3.1.148:8072$LR•IPV4『线路101』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
-http://123.130.84.106:8154/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路41』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
+http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路164』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5623&tk=a0c4f6cfaba3$LR•IPV4『线路63』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
-https://www.yangshipin.cn/tv/home?pid=600002525$LR•IPV4『线路64』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6209&tk=23a9aca1f79f$LR•IPV4『线路76』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
@@ -724,8 +696,6 @@ http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=
 http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300?$LR•IPV4『线路190』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/黑龍江衛視.png",黑龍江衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2183&tk=a0c4f6cfaba3$LR•IPV4『线路79』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/黑龍江衛視.png",黑龍江衛視
-https://www.yangshipin.cn/tv/home?pid=600002498$LR•IPV4『线路80』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/黑龍江衛視.png",黑龍江衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9197&tk=23a9aca1f79f$LR•IPV4『线路89』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/黑龍江衛視.png",黑龍江衛視
@@ -749,9 +719,9 @@ http://61.136.172.236:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖北衛視.png",湖北衛視
 http://www.745612.xyz:7788/rtp/235.254.198.72:1564$LR•IPV4『线路210』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8366&tk=a0c4f6cfaba3$LR•IPV4『线路81』
+http://123.130.84.106:8154/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路47』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
-https://www.yangshipin.cn/tv/home?pid=600002503$LR•IPV4『线路82』
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8366&tk=a0c4f6cfaba3$LR•IPV4『线路81』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
 http://120.76.248.139/live/bfgd/4200000098.m3u8$LR•IPV4『线路99』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
@@ -764,8 +734,6 @@ http://61.136.172.236:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6306&tk=a0c4f6cfaba3$LR•IPV4『线路68』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/吉林衛視.png",吉林衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3028&tk=23a9aca1f79f$LR•IPV4『线路78』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/吉林衛視.png",吉林衛視
-http://123.130.84.106:8154/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路82』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/吉林衛視.png",吉林衛視
 http://120.76.248.139/live/bfgd/4200000097.m3u8$LR•IPV4『线路89』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/吉林衛視.png",吉林衛視
@@ -782,12 +750,8 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0816&tk=a0c4f6cfaba3$LR•IPV4『线�
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1348&tk=23a9aca1f79f$LR•IPV4『线路36』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/內蒙古衛視.png",內蒙古衛視
 http://120.76.248.139/live/bfgd/4200000110.m3u8$LR•IPV4『线路43』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/內蒙古衛視.png",內蒙古衛視
-http://123.130.84.106:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路76』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/遼寧衛視.png",遼寧衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7944&tk=a0c4f6cfaba3$LR•IPV4『线路75』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/遼寧衛視.png",遼寧衛視
-https://www.yangshipin.cn/tv/home?pid=600002505$LR•IPV4『线路76』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/遼寧衛視.png",遼寧衛視
 http://120.76.248.139/live/bfgd/4200000141.m3u8$LR•IPV4『线路93』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/遼寧衛視.png",遼寧衛視
@@ -807,13 +771,13 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6122&tk=23a9aca1f79f$LR•IPV4『线�
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/寧夏衛視.png",寧夏衛視
 http://120.76.248.139/live/bfgd/4200000118.m3u8$LR•IPV4『线路49』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/青海衛視.png",青海衛視
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9745&tk=a0c4f6cfaba3$LR•IPV4『线路46』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/青海衛視.png",青海衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0872&tk=23a9aca1f79f$LR•IPV4『线路54』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/青海衛視.png",青海衛視
 http://120.76.248.139/live/bfgd/4200000111.m3u8$LR•IPV4『线路56』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山東衛視.png",山東衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4622&tk=a0c4f6cfaba3$LR•IPV4『线路84』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山東衛視.png",山東衛視
-https://www.yangshipin.cn/tv/home?pid=600002513$LR•IPV4『线路85』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山東衛視.png",山東衛視
 http://120.76.248.139/live/bfgd/4200000099.m3u8$LR•IPV4『线路101』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山東衛視.png",山東衛視
@@ -821,17 +785,11 @@ http://drive.mxmy.net:8888/udp/239.3.1.209:8052$LR•IPV4『线路108』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山東衛視.png",山東衛視
 http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路184』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/天津衛視.png",天津衛視
-http://123.130.84.106:8154/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路59』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/天津衛視.png",天津衛視
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4182&tk=a0c4f6cfaba3$LR•IPV4『线路84』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/天津衛視.png",天津衛視
 http://drive.mxmy.net:8888/udp/239.3.1.141:1234$LR•IPV4『线路111』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/天津衛視.png",天津衛視
 http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路196』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/海南衛視.png",海南衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0389&tk=a0c4f6cfaba3$LR•IPV4『线路57』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/海南衛視.png",海南衛視
-https://www.yangshipin.cn/tv/home?pid=600002506$LR•IPV4『线路58』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/海南衛視.png",海南衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4960&tk=23a9aca1f79f$LR•IPV4『线路66』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/海南衛視.png",海南衛視
@@ -851,6 +809,10 @@ http://120.76.248.139/live/bfgd/4200000482.m3u8$LR•IPV4『线路64』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/雲南衛視.png",雲南衛視
 http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路71』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/西藏衛視.png",西藏衛視
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3771&tk=a0c4f6cfaba3$LR•IPV4『线路27』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/西藏衛視.png",西藏衛視
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0854&tk=23a9aca1f79f$LR•IPV4『线路35』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/西藏衛視.png",西藏衛視
 http://120.76.248.139/live/bfgd/4200000121.m3u8$LR•IPV4『线路38』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/兵團衛視.png",兵團衛視
 http://120.76.248.139/live/bfgd/4200000124.m3u8$LR•IPV4『线路8』
@@ -860,38 +822,10 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6341&tk=a0c4f6cfaba3$LR•IPV4『线�
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8105&tk=2aca1ad9a849$LR•IPV4『线路22』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/康巴衛視.png",康巴衛視
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2449&tk=a0c4f6cfaba3$LR•IPV4『线路28』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/康巴衛視.png",康巴衛視
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7174&tk=f6cc1e0a0e1a$LR•IPV4『线路30』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/農林衛視.png",農林衛視
 http://120.76.248.139/live/bfgd/4200000122.m3u8$LR•IPV4『线路2』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/三沙衛視.png",三沙衛視
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5015&tk=a0c4f6cfaba3$LR•IPV4『线路17』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/三沙衛視.png",三沙衛視
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0161&tk=f6cc1e0a0e1a$LR•IPV4『线路23』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8$LR•IPV4『线路5』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
 http://120.76.248.139/live/bfgd/4200000117.m3u8$LR•IPV4『线路7』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8$LR•IPV4『线路9』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild$LR•IPV4『线路11』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8$LR•IPV4『线路15』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$LR•IPV4『线路22』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8$LR•IPV4『线路24』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8$LR•IPV4『线路27』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild$LR•IPV4『线路28』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7288&tk=a0c4f6cfaba3$LR•IPV4『线路31』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3050&tk=23a9aca1f79f$LR•IPV4『线路32』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/鳳凰衛視.png",鳳凰衛視
 http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路3』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/鳳凰衛視.png",鳳凰衛視
@@ -994,63 +928,45 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/WSOC Now (1080p) [Geo-blocked].png",WSOC Now (1080p) [Geo-blocked]
 https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/新疆衛視 (576p).png",新疆衛視 (576p)
-http://183.207.248.71/gitv/live1/G_XINJIANG/G_XINJIANG
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/兵團衛視.png",兵團衛視
-http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
+http://183.11.239.36:808/hls/40/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東南衛視.png",東南衛視
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/甘肅衛視.png",甘肅衛視
-http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
 https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/海南衛視.png",海南衛視
-http://cssbyd.imwork.net:8082/hls/31/index.m3u8
+http://183.11.239.36:808/hls/124/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/海峽衛視.png",海峽衛視
-http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖北衛視.png",湖北衛視
-http://124.116.183.146:9901/tsfile/live/0132_1.m3u8
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
+http://123.130.84.106:8154/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
+http://182.150.23.74:808/hls/33/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/吉林衛視.png",吉林衛視
-http://cssbyd.imwork.net:8082/hls/41/index.m3u8
+http://183.11.239.36:808/hls/10/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
-http://61.136.172.236:9901/tsfile/live/0138_1.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/遼寧衛視.png",遼寧衛視
-http://61.136.172.236:9901/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/寧夏衛視.png",寧夏衛視
-http://cssbyd.imwork.net:8082/hls/45/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/農林衛視.png",農林衛視
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
+http://222.169.85.8:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/青海衛視.png",青海衛視
+http://123.130.84.106:8154/tsfile/live/0140_1.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/三沙衛視.png",三沙衛視
 http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廈門衛視.png",廈門衛視
 http://183.11.239.36:808/hls/17/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山西衛視.png",山西衛視
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/天津衛視.png",天津衛視
-http://222.169.85.8:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
+http://222.169.85.8:9901/tsfile/live/0126_1.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/西藏衛視.png",西藏衛視
-http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+http://183.11.239.36:808/hls/64/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/新疆衛視.png",新疆衛視
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/延邊衛視.png",延邊衛視
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/雲南衛視.png",雲南衛視
-http://183.11.239.36:808/hls/52/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
-http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
+http://123.130.84.106:8154/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/大灣區衛視.png",大灣區衛視
 http://222.128.55.152:9080/live/dwq.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/內蒙古衛視.png",內蒙古衛視
 http://cssbyd.imwork.net:8082/hls/44/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視4K.png",東方衛視4K
-https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
-http://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202608072005/app_2/_definst_/ls_2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/遼寧衛視.png",遼寧衛視
-https://piccpndks.v.kcdnvip.com/audio/liaoning_2/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/雲南衛視.png",雲南衛視
-http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/人間衛視.png",人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
