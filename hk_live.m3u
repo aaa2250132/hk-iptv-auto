@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# Update: 2026-08-21 01:19:47
+# Update: 2026-08-21 12:59:12
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠.png",翡翠
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠.png",翡翠
@@ -26,8 +26,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/華麗翡翠台.png",華麗翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
-http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/無線新聞.png",無線新聞
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/無線新聞台.png",無線新聞台
@@ -38,8 +36,6 @@ https://cdn6.cc.cd/163189/wxxwt$LR—IPV4【线路1】
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
 http://r.jdshipin.com/jUx8K
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/TVB明珠台.png",TVB明珠台
-http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
@@ -72,8 +68,6 @@ http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3
 https://epg.pm/stream/7f7227d59a7dce31cf6910bcdb4ed741f8fb5994cecb87d2bba38adf33e6c490.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/港台電視31 (官方).png",港台電視31 (官方)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/RTHK TV 31 (港台電視31) (360p) [Geo-blocked].png",RTHK TV 31 (港台電視31) (360p) [Geo-blocked]
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/RTHK 31.png",RTHK 31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/港台電視32 (官方).png",港台電視32 (官方)
@@ -82,6 +76,8 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/Now星影台.png",Now星影台
 http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東森美洲衛視.png",東森美洲衛視
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/鳳凰香港台.png",鳳凰香港台
 https://epg.pw/stream/27b49ba568efc8dcc9af6a79ec06ffd4a2e354e3e2060143be83fca695edf46e.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/蓮花衛視.png",蓮花衛視
@@ -100,8 +96,6 @@ https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015
 https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/蓮花衛視.png",蓮花衛視
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/RTHKTV31.png",RTHKTV31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/FOX NewsNOW.png",FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/Local Now ChopperTown (720p).png",Local Now ChopperTown (720p)
@@ -110,14 +104,10 @@ https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/Pluto TV NBC News NOW (720p) [Not 24/7].png",Pluto TV NBC News NOW (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5df97894467dfa00091c873c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=213&terminate=false&userId=
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視4K.png",東方衛視4K
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視4K.png",江蘇衛視4K
 http://8.138.7.223/tv/jsws4k.php
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視4K.png",深圳衛視4K
 http://nn.7x9d.cn/深圳最新.php?id=szws4k
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
-http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/tvg-id="河北衛視" tvg-name="河北衛視" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北衛視.png" group-title="衛視頻道",河北衛視.png",tvg-id="河北衛視" tvg-name="河北衛視" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北衛視.png" group-title="衛視頻道",河北衛視
@@ -397,6 +387,8 @@ http://198.204.228.26/live/szwshd.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
 http://107.150.60.122/live/szwshd.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/三沙衛視.png",三沙衛視
 http://198.204.228.26/live/ssws.m3u8
@@ -473,13 +465,9 @@ http://119.233.255.62:1234/608917627$LR—IPV4【线路2】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
 http://119.166.53.110:9901/tsfile/live/0002_24.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
-http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路2】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
 http://111.8.242.142:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
 http://111.8.242.127:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
-http://119.39.9.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
 http://112.27.5.218:9901/tsfile/live/faacts/0126_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路6】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
@@ -499,11 +487,7 @@ http://113.90.154.189:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
 http://119.166.53.110:9901/tsfile/live/0002_18.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
-http://111.8.242.142:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
 http://111.8.242.127:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
-http://119.39.9.8:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
 http://183.94.146.79:9901/tsfile/live/0128_2.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路7】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖南衛視.png",湖南衛視
@@ -525,8 +509,6 @@ http://111.8.242.142:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://111.8.242.127:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
-http://119.39.9.8:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路6】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://183.94.146.79:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路8】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
 http://182.37.41.46:8154/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路11】
@@ -547,15 +529,11 @@ http://119.166.53.110:9901/tsfile/live/0002_20.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
 http://119.166.53.110:9901/tsfile/live/0002_59.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路2】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
-http://111.8.242.142:9999/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
-http://111.8.242.127:9999/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路5】
+http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路3】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
 http://183.94.146.79:9901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路7】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
 http://218.1.138.153:9003/hls/14/index.m3u8$LR—IPV4【线路10】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
-http://182.37.41.46:8154/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路11】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
 http://221.7.175.154:8445/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路12】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視.png",東方衛視
@@ -565,17 +543,9 @@ http://119.233.255.62:1234/651632648$LR—IPV4【线路15】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
 http://119.166.53.110:9901/tsfile/live/0002_22.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
-http://111.8.242.142:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
-http://111.8.242.127:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
-http://119.39.9.8:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路5】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
 http://183.94.146.79:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路6】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
 http://218.1.138.153:9003/hls/20/index.m3u8$LR—IPV4【线路7】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
-http://182.37.41.46:8154/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路8】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
 http://113.9.214.47:9003/hls/37/index.m3u8$LR—IPV4【线路9】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
@@ -591,9 +561,7 @@ http://120.237.39.10:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&down=1$L
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
 http://119.166.53.110:9901/tsfile/live/0002_21.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
-http://111.8.242.142:9999/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
-http://111.8.242.127:9999/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
+http://112.123.243.37:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路2】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
 http://119.39.9.8:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
@@ -615,7 +583,7 @@ http://119.166.53.110:9901/tsfile/live/0002_23.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
 http://119.166.53.110:9901/tsfile/live/0002_62.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路2】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
-http://119.39.9.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路4】
+http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路3】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
 http://183.94.146.79:9901/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
@@ -631,12 +599,6 @@ http://223.78.65.165:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
 http://221.7.175.154:8445/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路12】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
-http://111.8.242.142:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
-http://111.8.242.127:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路2】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
-http://119.39.9.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路3】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
 http://182.37.41.46:8154/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
 http://113.9.214.47:9003/hls/47/index.m3u8$LR—IPV4【线路5】
@@ -649,11 +611,9 @@ http://47.100.209.208:20002/738910914$LR—IPV4【线路8】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
 http://61.161.61.119:9004/hls/41/index.m3u8$LR—IPV4【线路9】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
-http://111.8.242.142:9999/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路2】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
-http://111.8.242.127:9999/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
 http://119.39.9.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路4】
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
+http://123.118.53.84:45237/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
 http://218.1.138.153:9003/hls/22/index.m3u8$LR—IPV4【线路7】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
@@ -671,6 +631,8 @@ https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f2607
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東南衛視.png",東南衛視
 http://119.166.53.110:9901/tsfile/live/0002_31.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東南衛視.png",東南衛視
+http://112.123.243.37:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路2】
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東南衛視.png",東南衛視
 http://182.37.41.46:8154/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東南衛視.png",東南衛視
 http://113.9.214.47:9003/hls/41/index.m3u8$LR—IPV4【线路5】
@@ -678,6 +640,8 @@ http://113.9.214.47:9003/hls/41/index.m3u8$LR—IPV4【线路5】
 http://47.100.209.208:20002/849116810$LR—IPV4【线路8】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
 http://119.166.53.110:9901/tsfile/live/0002_26.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
+http://112.27.5.218:9901/tsfile/live/faacts/0125_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
 http://183.94.146.79:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
@@ -689,21 +653,15 @@ http://113.9.214.47:9003/hls/34/index.m3u8$LR—IPV4【线路8】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
 http://171.38.148.188:9003/hls/32/index.m3u8$LR—IPV4【线路9】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
-http://223.78.65.165:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路10】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
 http://221.7.175.154:8445/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路11】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
 http://47.100.209.208:20002/608831231$LR—IPV4【线路12】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
 http://119.233.255.62:1234/608831231$LR—IPV4【线路13】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣東衛視.png",廣東衛視
-http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路15】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
-http://111.8.242.142:9999/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
+http://112.27.5.218:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
-http://111.8.242.127:9999/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路2】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
-http://119.39.9.8:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路3】
+http://112.27.5.218:9901/tsfile/live/faacts/0113_2.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
 http://218.1.138.153:9003/hls/27/index.m3u8$LR—IPV4【线路8】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
@@ -719,15 +677,13 @@ http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1$
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/南方衛視.png",南方衛視
 http://120.237.39.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1$LR—IPV4【线路2】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/甘肅衛視.png",甘肅衛視
-http://119.39.9.8:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路1】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/甘肅衛視.png",甘肅衛視
 http://113.9.214.47:9003/hls/54/index.m3u8$LR—IPV4【线路2】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/甘肅衛視.png",甘肅衛視
 http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
 http://119.166.53.110:9901/tsfile/live/0002_33.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
-http://119.39.9.8:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路2】
+http://112.27.5.218:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
 http://182.37.41.46:8154/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路6】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
@@ -739,9 +695,9 @@ http://221.7.175.154:8445/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
 https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR—IPV4【线路12】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
-http://119.39.9.8:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路1】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
 http://112.27.5.218:9901/tsfile/live/faacts/0117_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路2】
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
+http://112.27.5.218:9901/tsfile/live/0117_2.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
 http://182.37.41.46:8154/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
@@ -759,9 +715,7 @@ http://173.208.212.130:8181/720p/hews.m3u8$LR—IPV4【线路15】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
 http://119.166.53.110:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
-http://119.39.9.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路2】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
-http://123.118.53.84:45237/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
+http://112.27.5.218:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
 http://182.37.41.46:8154/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路6】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
@@ -770,6 +724,8 @@ http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=
 http://113.9.214.47:9003/hls/49/index.m3u8$LR—IPV4【线路8】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
 http://171.38.148.188:9003/hls/63/index.m3u8$LR—IPV4【线路9】
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
+http://223.78.65.165:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路10】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
 http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路11】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
@@ -781,11 +737,7 @@ http://173.208.212.130:8181/720p/haws.m3u8$LR—IPV4【线路14】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/黑龍江衛視.png",黑龍江衛視
 http://119.166.53.110:9901/tsfile/live/0002_28.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/黑龍江衛視.png",黑龍江衛視
-http://111.8.242.142:9999/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路2】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/黑龍江衛視.png",黑龍江衛視
-http://111.8.242.127:9999/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/黑龍江衛視.png",黑龍江衛視
-http://119.39.9.8:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路4】
+http://112.27.5.218:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/黑龍江衛視.png",黑龍江衛視
 http://183.94.146.79:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路6】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/黑龍江衛視.png",黑龍江衛視
@@ -807,6 +759,8 @@ http://119.166.53.110:9901/tsfile/live/0002_65.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖北衛視.png",湖北衛視
 http://119.39.9.8:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路3】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖北衛視.png",湖北衛視
+http://112.27.5.218:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路4】
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖北衛視.png",湖北衛視
 http://183.94.146.79:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路6】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖北衛視.png",湖北衛視
 http://182.37.41.46:8154/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路9】
@@ -824,10 +778,6 @@ http://47.100.209.208:20002/947472496$LR—IPV4【线路14】
 http://119.233.255.62:1234/947472496$LR—IPV4【线路15】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
 http://119.166.53.110:9901/tsfile/live/0002_29.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
-http://111.8.242.142:9999/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路2】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
-http://111.8.242.127:9999/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路3】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
 http://119.39.9.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0$LR—IPV4【线路4】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
@@ -858,8 +808,6 @@ http://171.38.148.188:9003/hls/71/index.m3u8$LR—IPV4【线路4】
 http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路5】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/吉林衛視.png",吉林衛視
 http://47.100.209.208:20002/947472500$LR—IPV4【线路6】
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/吉林衛視.png",吉林衛視
-http://60.187.246.137:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路7】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/內蒙古衛視.png",內蒙古衛視
 http://119.166.53.110:9901/tsfile/live/0002_43.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4【线路1】
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/內蒙古衛視.png",內蒙古衛視
@@ -1103,69 +1051,55 @@ https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/play
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/WSOC Now (1080p) [Geo-blocked].png",WSOC Now (1080p) [Geo-blocked]
 https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/安徽衛視.png",安徽衛視
-http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8
+http://113.9.214.47:9003/hls/33/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/北京衛視.png",北京衛視
-http://171.38.148.188:9003/hls/69/index.m3u8
+http://112.249.75.196:9989/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/兵團衛視.png",兵團衛視
 http://221.7.175.154:8445/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東南衛視.png",東南衛視
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廣西衛視.png",廣西衛視
-http://171.38.148.188:9003/hls/31/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/貴州衛視.png",貴州衛視
-http://113.9.214.47:9003/hls/45/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/海南衛視.png",海南衛視
 http://113.9.214.47:9003/hls/48/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/海峽衛視.png",海峽衛視
 http://113.57.140.161:10081/newlive/live/hls/27/live.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河北衛視.png",河北衛視
-http://113.57.140.161:10081/newlive/live/hls/33/live.m3u8
+http://120.40.39.246:352/newlive/live/hls/33/live.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/河南衛視.png",河南衛視
 http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/湖北衛視.png",湖北衛視
-http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/吉林衛視.png",吉林衛視
-http://171.38.148.188:9003/hls/71/index.m3u8
+http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江蘇衛視.png",江蘇衛視
-http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
+http://120.40.39.246:352/newlive/live/hls/31/live.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/江西衛視.png",江西衛視
-http://171.38.148.188:9003/hls/80/index.m3u8
+http://111.59.24.227:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/寧夏衛視.png",寧夏衛視
-http://171.38.148.188:9003/hls/64/index.m3u8
+http://118.193.115.2:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/農林衛視.png",農林衛視
-http://112.27.5.218:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/青海衛視.png",青海衛視
-http://171.38.148.188:9003/hls/82/index.m3u8
+http://119.166.53.110:9901/tsfile/live/0002_45.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/三沙衛視.png",三沙衛視
-http://171.38.148.188:9003/hls/78/index.m3u8
+http://119.166.53.110:9901/tsfile/live/0002_60.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/廈門衛視.png",廈門衛視
-http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
+http://120.40.39.246:352/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山東衛視.png",山東衛視
-http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
+http://120.40.39.246:352/newlive/live/hls/35/live.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/山西衛視.png",山西衛視
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/深圳衛視.png",深圳衛視
-http://171.38.148.188:9003/hls/33/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/四川衛視.png",四川衛視
-http://171.38.148.188:9003/hls/65/index.m3u8
+http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/天津衛視.png",天津衛視
-http://171.38.148.188:9003/hls/53/index.m3u8
+http://113.9.214.47:9003/hls/39/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/西藏衛視.png",西藏衛視
-http://171.38.148.188:9003/hls/74/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/新疆衛視.png",新疆衛視
-http://171.38.148.188:9003/hls/72/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/雲南衛視.png",雲南衛視
-http://113.9.214.47:9003/hls/52/index.m3u8
+http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/浙江衛視.png",浙江衛視
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/重慶衛視.png",重慶衛視
-http://171.38.148.188:9003/hls/58/index.m3u8
+http://113.9.214.47:9003/hls/47/index.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/南方衛視.png",南方衛視
-http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
+http://120.237.39.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/大灣區衛視.png",大灣區衛視
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/內蒙古衛視.png",內蒙古衛視
-http://171.38.148.188:9003/hls/83/index.m3u8
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/東方衛視4K.png",東方衛視4K
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/陝西衛視.png",陝西衛視
 http://stream.snrtv.com/sxbc-star-iARW18.m3u8
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/人間衛視.png",人間衛視
